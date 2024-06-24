@@ -7,10 +7,5 @@
 - Pinecone / langchain / llamaindex
 - 실제 서비스 구현
 
-### 저자
-- 곽기은
-- 한두솔
-
-로컬에서 변경
-
-github 홈페이지에서 변경
+### 기여자
+- 강준구
